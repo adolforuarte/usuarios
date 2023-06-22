@@ -2,7 +2,7 @@ from usuario_dao import UsuarioDAO
 from usuario import Usuario
 from logger_base import log
 
-print('Hola wachin, ingresa un 2 si queres actualizar un registro de la tabla:')
+print('Hola, ingresa un 2 si queres actualizar un registro de la tabla:')
 
 num = int(input('Ingresa aca che: '))
 
